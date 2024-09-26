@@ -3,7 +3,7 @@ package youtube;
 public class Video {
     private int id;
     private String nome;
-    private Usuario usuario;
+    private Usuario usuario; // para acessar o id do usuário
     private String desc;
     private String link;
     private String duracao;
