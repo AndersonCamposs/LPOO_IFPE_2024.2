@@ -2,3 +2,7 @@
 *.iml
 /*/.gitignore
 /*/*.brM3
+
+.idea/
+target/
+*.xml
