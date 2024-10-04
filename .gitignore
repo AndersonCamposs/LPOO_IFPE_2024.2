@@ -3,6 +3,4 @@
 /*/.gitignore
 /*/*.brM3
 
-.idea/
-target/
-*.xml
+*/*/.idea/
